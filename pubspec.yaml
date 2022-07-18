@@ -1,0 +1,110 @@
+name: truvideo_enterprise
+description: Truvideo Enterprise Flutter App
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.15.1 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  intl: 0.17.0
+  timeago: 3.2.2
+  freezed_annotation: 2.0.3
+  hooks_riverpod: 1.0.4
+  flutter_hooks: 0.18.4
+  dio: 4.0.6
+  get_it: 7.2.0
+  streaming_shared_preferences: 2.0.0
+  form_field_validator: 1.1.0
+  multi_value_listenable_builder: 0.0.2
+  pinput: 2.2.10
+  fluttertoast: 8.0.9
+  implicitly_animated_reorderable_list: 0.4.2
+  confetti: 0.7.0
+  material_design_icons_flutter: 5.0.6595
+  ios_physical_memory: 0.0.6
+  device_info_plus: 3.2.3
+  connectivity_plus: 2.3.1
+  battery_plus: 2.1.4
+  system_info2: 2.0.3
+  disk_space: 0.2.1
+  external_storage_size: 0.0.3
+  permission_handler: 9.2.0
+  google_fonts: 3.0.1
+  loadmore: 2.0.1
+  hive: 2.2.1
+  hive_flutter: 1.1.0
+  easy_debounce: 2.0.2+1
+  flutter_libphonenumber: 1.2.4
+  jwt_decoder: 2.0.1
+  equatable: 2.0.3
+  visibility_detector: 0.3.3
+  shimmer: 2.0.0
+  all_sensors2: 1.0.1
+  package_info_plus: 1.4.2
+  animations: 2.0.3
+  chewie: 1.3.3
+  media_info: 0.10.0
+  flutter_ffmpeg: 0.4.2
+  flutter_image_compress: 1.1.0
+  image: 3.2.0
+  video_thumbnail: 0.5.0
+  filesize: 2.0.1
+  simple_s3: 0.3.2
+  photo_manager: 2.1.2
+  transparent_image: 2.0.0
+  extended_image: 6.2.1
+  flutter_scale_tap: 1.0.5
+  async: 2.9.0
+  uuid: 3.0.6
+  event_bus: 2.0.0
+  flutter_twilio: 0.0.17
+  collection: 1.16.0
+  path_provider: 2.0.10
+  video_player: 2.4.2
+  local_auth: 2.1.0
+  keyboard_actions: 4.0.0
+  firebase_core: 1.17.1
+  firebase_messaging: 11.4.1
+  firebase_analytics: 9.1.9
+  firebase_crashlytics: 2.8.1
+  animated: 2.0.0
+  flutter_native_splash: 2.2.2
+
+  camera:
+    path: external-libs/camera/camera
+
+  modal_bottom_sheet:
+    path: external-libs/modal_bottom_sheet
+
+  speed_test_port:
+    path: external-libs/speed_test_port-main
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: 2.0.1
+  build_runner: 2.1.11
+  freezed: 2.0.3+1
+  json_serializable: 6.2.0
+  json_annotation: 4.5.0
+  mockito: 5.2.0
+
+dependency_overrides:
+  async: 2.9.0
+  dbus: 0.7.5
+  xml: 6.1.0
+  ffi: 2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/images/flags/
+
+#flutter build web --base-href="/flutter-truvideo-enterprise-release/" -t lib/main_beta.dart
+#flutter packages pub run build_runner build --delete-conflicting-outputs

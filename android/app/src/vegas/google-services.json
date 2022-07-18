@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "821955577133",
+    "project_id": "truvideo-demo-vegas",
+    "storage_bucket": "truvideo-demo-vegas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821955577133:android:649e9b606c3d66ee6e7fa4",
+        "android_client_info": {
+          "package_name": "com.truvideo.enterprise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821955577133-0pkqbms0alb528tlkafjp62ql0la1g97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZngVJ-CZcU-69E-fbxuxXOdQR4V1UEgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821955577133-0pkqbms0alb528tlkafjp62ql0la1g97.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "821955577133-npt43ftuif4r0bf8ifdua1esaqhc4gsh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.truvideo.enterprise"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

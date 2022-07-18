@@ -1,0 +1,26 @@
+name: TriggerBitriseBuild
+
+on:
+  pull_request_review:
+    types: [ submitted, edited, dismissed ]
+
+jobs:
+  deploy:
+    name: Trigger Bitrise Sandbox Build
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Build Bitrise for Sandbox
+        if: ${{ (github.event.review.state == 'approved') && (github.event.pull_request.base.ref == 'beta') }}
+        run: |
+          curl https://app.bitrise.io/app/761e2b6e55e536bc/build/start.json --data '{
+            "hook_info":{
+              "type":"bitrise",
+              "build_trigger_token":"-6ZcI_Du-Ig63OM9kAqsLQ"
+            },
+            "build_params":{
+              "branch":"${{ github.event.pull_request.head.ref }}",
+              "workflow_id":"Beta_And_RC"
+            },
+            "triggered_by":"curl"
+          }'

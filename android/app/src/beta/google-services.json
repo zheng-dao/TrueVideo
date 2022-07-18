@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "391143604655",
+    "project_id": "truvideo---beta",
+    "storage_bucket": "truvideo---beta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391143604655:android:be191e8e7e0a8f4eb7ef5a",
+        "android_client_info": {
+          "package_name": "com.truvideo.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391143604655-tek6ic8uordhlmns8jein7sre099ssp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmMeWTyNUJQ-FRIoU-kyKForq-AI2dw4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391143604655-tek6ic8uordhlmns8jein7sre099ssp2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391143604655-h7lgpr7n6b24tl6i384ua025hahf9lju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.truvideo.enterprise"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391143604655:android:8535a0d2a03feea2b7ef5a",
+        "android_client_info": {
+          "package_name": "com.truvideo.enterprise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391143604655-tek6ic8uordhlmns8jein7sre099ssp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmMeWTyNUJQ-FRIoU-kyKForq-AI2dw4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391143604655-tek6ic8uordhlmns8jein7sre099ssp2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391143604655-h7lgpr7n6b24tl6i384ua025hahf9lju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.truvideo.enterprise"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391143604655:android:ecc76658c1352ab9b7ef5a",
+        "android_client_info": {
+          "package_name": "com.truvideo.enterprise.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391143604655-tek6ic8uordhlmns8jein7sre099ssp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmMeWTyNUJQ-FRIoU-kyKForq-AI2dw4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391143604655-tek6ic8uordhlmns8jein7sre099ssp2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391143604655-h7lgpr7n6b24tl6i384ua025hahf9lju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.truvideo.enterprise"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

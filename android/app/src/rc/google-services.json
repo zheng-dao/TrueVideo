@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "413279949394",
+    "project_id": "truvideo---rc",
+    "storage_bucket": "truvideo---rc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413279949394:android:73fc9c80bbc2bf597b458b",
+        "android_client_info": {
+          "package_name": "com.truvideo.enterprise.rc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413279949394-dks68gut5tk0q6tb1h09oa01pdk91chc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk91_rmI1Dx83-WtSgNub1CAGVaWRXU1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413279949394-dks68gut5tk0q6tb1h09oa01pdk91chc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "413279949394-k6c3qoeeqb8b85a798699j8bkf90jeig.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.truvideo.ios-app.rc",
+                "app_store_id": "1337738505"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413279949394:android:65db2974f1cddae67b458b",
+        "android_client_info": {
+          "package_name": "com.truvideo.rc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413279949394-dks68gut5tk0q6tb1h09oa01pdk91chc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk91_rmI1Dx83-WtSgNub1CAGVaWRXU1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413279949394-dks68gut5tk0q6tb1h09oa01pdk91chc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "413279949394-k6c3qoeeqb8b85a798699j8bkf90jeig.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.truvideo.ios-app.rc",
+                "app_store_id": "1337738505"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

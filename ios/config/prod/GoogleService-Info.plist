@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>616177256059-8557jtribe666nhhnt1p680uiec6k43j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.616177256059-8557jtribe666nhhnt1p680uiec6k43j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBpY2_3nyp_M1ahv_mvZ4g1LgcOSZaQ0rU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>616177256059</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.truvideo.enterprise</string>
+	<key>PROJECT_ID</key>
+	<string>truvideo-production</string>
+	<key>STORAGE_BUCKET</key>
+	<string>truvideo-production.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:616177256059:ios:1f962738f6c6a4820884de</string>
+	<key>DATABASE_URL</key>
+	<string>https://truvideo-production.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,6 @@
+flutter_native_splash:
+  color: "#3684D9"
+  image: assets/images/logo-white.png
+  fullscreen: false
+
+#flutter pub run flutter_native_splash:create
